@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.mobilhanem.tahaapp", appContext.getPackageName());
+        assertEquals("com.mobilhanem.tahaapp2", appContext.getPackageName());
     }
 }
